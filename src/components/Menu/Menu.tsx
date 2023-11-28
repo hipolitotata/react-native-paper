@@ -678,6 +678,7 @@ const styles = StyleSheet.create({
       cursor: 'default',
     }),
     width: '100%',
+    background: 'rgba(0,0,0,.0.7)',
   },
 });
 
